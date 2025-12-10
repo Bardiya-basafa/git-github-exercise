@@ -16,14 +16,12 @@ Fourth commit from Amirhossein-Rezaaie :develop
 
 First commit from Amirhossein-Rezaaie : feature
 
-<<<<<<< HEAD
 First commit from Amirhossein-Rezaaie : feature
 
 Second commit from Amirhossein-Rezaaie : feature
-=======
+
 Second commit from Amirhossein-Rezaaie : feature
 
 Third commit from Amirhossein-Rezaaie : feature
 
 Forth commit from Amirhossein-Rezaaie : feature
->>>>>>> 1b64fe3 (Again apply stashed changes on feature after develop merge)
