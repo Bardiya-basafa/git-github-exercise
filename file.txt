@@ -10,6 +10,10 @@ First commit from Amirhossein-Rezaaie : develop
 
 Second commit from Amirhossein-Rezaaie : develop
 
+<<<<<<< HEAD
 Third commit from Amirhossein-Rezaaie :develop
 
 Fourth commit from Amirhossein-Rezaaie :develop
+=======
+First commit from Amirhossein-Rezaaie : feature
+>>>>>>> c8e0d82 (First commit from Amirhossein-Rezaaie : feature)
