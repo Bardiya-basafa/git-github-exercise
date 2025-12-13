@@ -3,3 +3,4 @@ third commit in new branch
 forth commit in new branch
 Conflict test from Localin github
 
+new line
