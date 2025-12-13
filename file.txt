@@ -3,5 +3,10 @@ third commit in new branch
 forth commit in new branch
 Conflict test from Localin github
 
+new line...
+new line 2...
+
+Change from Local on feature
+Change from GitHub on feature
 new line
 new line 2...
