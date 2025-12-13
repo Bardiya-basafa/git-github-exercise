@@ -4,3 +4,4 @@ forth commit in new branch
 Conflict test from Localin github
 
 new line
+new line 2...
